@@ -1,0 +1,6 @@
+#Source: (Example : E:\\Blender\\all ) 
+e:\Projects\python\blenderr\models\
+
+
+#Destination:  (Example : E:\\Blender\\all ) 
+e:\Projects\python\blenderr\destination\

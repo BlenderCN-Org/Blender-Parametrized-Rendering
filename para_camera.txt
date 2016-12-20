@@ -1,11 +1,3 @@
-#Source: (Example : E:\\Blender\\all ) 
-E:\\Projects\\python\\blenderr\\models\\
-
-
-#Destination:  (Example : E:\\Blender\\all ) 
-E:\\Projects\\python\\blenderr\\destination\\
-
-
 #camera:
 #=======
 
