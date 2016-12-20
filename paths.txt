@@ -1,6 +1,6 @@
 #Source: (Example : E:\\Blender\\all ) 
-e:\Projects\python\blenderr\models\
+e:\Projects\python\Blender-Parametrized-Rendering\models\
 
 
 #Destination:  (Example : E:\\Blender\\all ) 
-e:\Projects\python\blenderr\destination\
+e:\Projects\python\Blender-Parametrized-Rendering\destination\
