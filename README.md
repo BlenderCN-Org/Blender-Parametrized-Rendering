@@ -9,3 +9,22 @@ A project for rendering different 3D models using different camera, lighting and
 4. Go to line `17` and update the `path` to the path of the `para_camera.txt` file. `para_camera.txt` is the file where you define the `yaw` , `pitch`, `roll` parameters. For understanding watch <a href="https://www.youtube.com/watch?v=pQ24NtnaLl8">this</a>.
 5. Go to line `18` and update the path to the `path file` which contains the `source(models)` and `destination(rendered images)` folder.
 6. Now run the script.
+
+
+## License
+```
+Copyright 2016 Muazzam Ali
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
