@@ -1,0 +1,35 @@
+#Source: (Example : E:\\Blender\\all ) 
+E:\\Projects\\python\\blenderr\\models\\
+
+
+#Destination:  (Example : E:\\Blender\\all ) 
+E:\\Projects\\python\\blenderr\\destination\\
+
+
+#camera:
+#=======
+
+#theta ( Values from -90 to 90 )
+45,-45		
+
+#phi ( Values from 0 to 360 )
+30,135	
+
+#raw  ( To see the complete object value => 12)
+10,15
+
+
+#lamp:
+#=====
+
+#x
+0,0
+
+#y 
+-10,10
+
+#z (Height)
+10,10
+
+#type = 'point'
+
