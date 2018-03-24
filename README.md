@@ -13,7 +13,7 @@ A project for rendering different 3D models using different camera, lighting and
 
 ## License
 ```
-Copyright 2018 Muazzam Ali
+Copyright © 2018 Muazzam Ali
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
